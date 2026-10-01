@@ -20,13 +20,9 @@
 
 
 
-I am interested in software development and mobile app development.
+I am interested in software development, Git, GitHub, and mobile application development.s\
 
-Git, GitHub, and mobile application development.
-
-I am learning collaborative Git workflows.
-
-\## Skills
+## Skills
 
 
 
