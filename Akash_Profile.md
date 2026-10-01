@@ -20,7 +20,7 @@
 
 
 
-I am interested in collaborative software development.
+I am interested in software development and mobile app development.
 
 Git, GitHub, and mobile application development.
 
@@ -39,6 +39,4 @@ I am learning collaborative Git workflows.
 \- Flutter
 
 \- Git and GitHub
-
-
 
