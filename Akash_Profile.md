@@ -20,7 +20,7 @@
 
 
 
-I am a BCA student interested in software development,
+I am interested in collaborative software development.
 
 Git, GitHub, and mobile application development.
 
